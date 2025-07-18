@@ -52,7 +52,7 @@ Foxit PDF Editor provides a comprehensive set of tools for editing, annotating, 
 ## 🖼️ Preview
 
 ![Foxit PDF Editor Screenshot 1](https://help.foxit.com/manuals/pdf-reader/foxit-reader-for-mac/en-us/12.1.0/images/20210516/1.png)  
-![Foxit PDF Editor Screenshot 2](https://kb.foxit.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Png&versionId=068Uk000009JxhL&operationContext=CHATTER&contentId=05TUk00000As2eO)
+![Foxit PDF Editor Screenshot 2](https://www.ghacks.net/wp-content/uploads/2022/06/foxit-pdf-reader-12.0.png)
 
 ---
 
